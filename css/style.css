@@ -77,3 +77,18 @@
     width: 250px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   }
+
+
+  /*responsive*/
+  @media screen and (max-width: 800px) {
+    .container {
+      width: 70%;
+
+    }
+  }
+ 
+  @media screen and (max-width: 800px) {
+    #qrcode {
+        margin:auto;
+    }
+  }
