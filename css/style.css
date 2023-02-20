@@ -82,14 +82,15 @@
   /*responsive*/
   @media screen and (max-width: 800px) {
     .container {
-      width: 70%;
+      width: 90%;
 
     }
   }
  
   @media screen and (max-width: 800px) {
     #qrcode {
-        width: 90%;
+        width: 80%;
         margin:auto;
     }
   }
+  
