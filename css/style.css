@@ -89,6 +89,7 @@
  
   @media screen and (max-width: 800px) {
     #qrcode {
+        width: 50%;
         margin:auto;
     }
   }
